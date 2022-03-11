@@ -1,0 +1,11 @@
+.btn {
+  background-color: pink;
+  border-radius: 5px;
+  padding: 10px 10px;
+  text-decoration: underline;
+}
+
+.btn:hover {
+  background-color: black;
+  color: white;
+}
